@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url("image4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+form{
+    
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+}
+.parent{
+    background: rgba(76, 175, 80, 0.3)
+    
+  }
+h1{
+    font-family: 'Dancing Script', cursive;
+}  
+label{
+    font-weight: 800;
+}
+.button-reg{
+    text-align: center;
+
+
+}
+.button-r{
+    width: 30%;
+}
